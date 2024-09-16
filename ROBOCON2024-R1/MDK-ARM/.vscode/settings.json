@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "shoot_task.h": "c",
+        "chassis_task.h": "c",
+        "nrf24l01.h": "c"
+    }
+}
